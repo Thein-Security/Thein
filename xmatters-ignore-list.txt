@@ -1,5 +1,3 @@
 PA1410-DMZ
-SOK
 NOS
-OTR
 panorama-bhd
