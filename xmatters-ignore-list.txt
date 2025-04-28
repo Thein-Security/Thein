@@ -4,4 +4,4 @@ SLV
 PRN
 OTR
 NOS
-Panorama-bhd
+panorama-bhd
