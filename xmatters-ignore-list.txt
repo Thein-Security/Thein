@@ -1,10 +1,5 @@
 PA1410-DMZ
 PA440-SOC-1
 panorama-bhd
-MAL
-MIL
 NEZ
 OPO
-REP
-TAB
-TYN
