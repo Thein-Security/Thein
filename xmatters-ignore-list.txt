@@ -1,9 +1,6 @@
 PA1410-DMZ
 PA440-SOC-1
 panorama-bhd
-BAB
-BEZ
-CHR
 CHT
 HRA
 PRE
