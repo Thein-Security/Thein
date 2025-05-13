@@ -6,3 +6,4 @@ VYS
 Azure
 SYST
 VIN
+panorama-bhd
