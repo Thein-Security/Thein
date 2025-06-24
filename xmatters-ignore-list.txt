@@ -6,3 +6,5 @@ PA3410-ALB-2
 VM100-Azure-North
 VM100-Azure-West
 panorama-bhd
+PA5420-SVC-1
+PA5420-SVC-2
