@@ -16,5 +16,3 @@ panorama-bhd
 panorama-gri
 PA3410-PCN-1
 PA3410-PCN-2
-PA3410-WAMS-1
-PA3410-WAMS-2
