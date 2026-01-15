@@ -12,3 +12,11 @@ lcaas
 License
 LAB-PA5420-SVC-2
 LAB-PA5420-SVC-1
+PA1410-DMZ-1
+PA1410-DMZ-2
+pa3410-inet-1
+pa3410-inet-2
+PA3410-INET-1
+PA3410-INET-2
+panorama-bhd
+panorama-gri
