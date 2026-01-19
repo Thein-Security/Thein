@@ -12,4 +12,4 @@ lcaas
 License
 LAB-PA5420-SVC-2
 LAB-PA5420-SVC-1
-PA5420-SYST-1 - SYSTEM ALERT : high : OSPF adjacency with neighbor has gone down. interface ae3
+PA5420-SYST-1
