@@ -11,4 +11,3 @@ lcaas
 License
 LAB-PA5420-SVC-2
 LAB-PA5420-SVC-1
-TPS
