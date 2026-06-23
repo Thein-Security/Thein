@@ -10,3 +10,4 @@ BEZ
 CHR
 CHT
 PRE
+panorama-bhd
