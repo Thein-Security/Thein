@@ -5,4 +5,4 @@ PA3410-ALB-2
 PA3410-BNO-LAB2
 PA3410-BNO-LAB1
 026709003227
-Failed to renew device certificate
+certificate
