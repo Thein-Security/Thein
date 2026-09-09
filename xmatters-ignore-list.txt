@@ -7,9 +7,3 @@ PA3410-BNO-LAB1
 PA3410-CST1-POC-1
 PA3410-CST2-POC-1
 80 pe
-panorama-bhd
-panorama-gri
-PA1410-DMZ-1
-PA1410-DMZ-2
-pa3430-inet-1
-pa3430-inet-2
