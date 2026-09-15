@@ -8,3 +8,6 @@ PA3410-CST1-POC-1
 PA3410-CST2-POC-1
 80 pe
 Default master key in use
+panorama-bhd
+panorama-gri
+SVC
