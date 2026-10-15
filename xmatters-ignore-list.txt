@@ -9,9 +9,4 @@ PA3410-CST2-POC-1
 80 pe
 N9318
 panorama
-TUR
-SMP
-VIN
-OVA
-PLZ
 AZURE
