@@ -12,3 +12,5 @@ Default master
 MIL
 MAL
 panorama
+DMZ
+inet
