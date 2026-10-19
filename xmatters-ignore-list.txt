@@ -14,3 +14,4 @@ MAL
 panorama
 DMZ
 inet
+INET
