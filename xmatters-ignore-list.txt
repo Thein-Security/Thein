@@ -10,3 +10,5 @@ PA3410-CST2-POC-1
 N9318
 Default master 
 MIL
+MAL
+panorama
