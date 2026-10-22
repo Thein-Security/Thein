@@ -9,3 +9,10 @@ PA3410-CST2-POC-1
 80 pe
 N9318
 Default master 
+KOC
+NEZ
+OPO
+REP
+TAB
+TYN
+panorama
