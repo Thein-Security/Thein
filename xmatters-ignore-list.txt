@@ -11,3 +11,10 @@ N9318
 TUR
 024101011808
 Default master
+VIT
+VYS
+SYST
+PCN
+WAMS
+North
+panorama
