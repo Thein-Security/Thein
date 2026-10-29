@@ -12,6 +12,7 @@ TUR
 024101011808
 Default master
 VIT
+VER
 VYS
 SYST
 PCN
