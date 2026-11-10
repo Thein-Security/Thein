@@ -12,4 +12,4 @@ SMP
 VIN
 OVA
 PLZ
-West
+WEST
