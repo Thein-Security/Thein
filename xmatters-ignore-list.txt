@@ -12,3 +12,4 @@ HBM
 KRA
 MAL
 CHD
+panorama
